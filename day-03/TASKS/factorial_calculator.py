@@ -8,7 +8,7 @@ num = int(input("Please, enter a non-negative integer: "))
 if num >= 0:
     factorial_result = 1
 else:
-        print("Please enter a valid integer :).")
+        print("Please enter a valid integer :)")
         quit()
 
 for i in range(1, num + 1):
