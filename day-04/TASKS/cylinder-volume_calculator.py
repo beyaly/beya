@@ -21,7 +21,7 @@ volume = math.pi * radius**2 * height
 
 # Write the code ↓ to display the calculated volume with 2 decimal places.
 result = "{:.2f}".format(volume)
-print(f"The volume of the cylinder is: {result}sd")
+print(f"The volume of the cylinder is: {result}")
 # Select and employ a string concatenation method based on your personal preference and comfort level.
 
 
