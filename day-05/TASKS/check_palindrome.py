@@ -13,7 +13,7 @@ is_palindrome = word.lower() == word.lower()[::-1]
 # Utilize string functions to compare the original word with its reverse.
 
 
-c
+
 
 
 
