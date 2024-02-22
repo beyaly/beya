@@ -15,7 +15,7 @@ else:
 
 # Write the code ↓ to display the Perfect Number check result.
 if is_perfect_number == num:
-    print(f"{num} is a Perfect Number.")
+    print(f"{num} is a Perfect Number")
 else:
     print(f"{num} is not a Perfect Number.")
 # NOTE : You can use if-else statement or ternary operator to display the result.
