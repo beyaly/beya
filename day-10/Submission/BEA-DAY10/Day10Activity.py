@@ -16,7 +16,7 @@ user_data = {
 json_data = json.dumps(user_data, indent=4)
 
 
-with open("output.json", "w") as file:
+with open("day-10/Submission/BEA-DAY10/output.json", "w") as file:
     file.write(json_data)
 
 print("Data has been saved to 'output.json'.")
