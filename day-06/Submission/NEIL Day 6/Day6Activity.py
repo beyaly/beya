@@ -1,7 +1,5 @@
-file =  open('example.txt', 'r')
+file = open('day-06/Submission/NEIL Day 6/example.txt', 'r')
 
-content = file.read()
-
-print(content)
+print(file.read())
 
 file.close()
