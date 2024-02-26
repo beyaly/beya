@@ -2,7 +2,7 @@ import pandas as pd
 import seaborn as sns 
 import matplotlib.pyplot as plt 
 
-df = pd.read_csv('employees.csv')
+df = pd.read_csv('day-11\Submission\employees.csv')
 
 sns.set(style="whitegrid")
 plt.figure(figsize=(10, 6))
